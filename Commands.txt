@@ -1,0 +1,8 @@
+
+git add - Adds file to staging area
+git commit - Commits file from staging area to Github Repository
+git status - reports status of current git repository.
+git init - Estabilishes master git repository
+git config --global user.name "<name>" -Declare Username
+git config --global user.email "<email>" - Declare Email of current user
+git log - Shows list of all changes made to Git Repository
